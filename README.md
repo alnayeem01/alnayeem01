@@ -8,6 +8,8 @@
 - 💬 Ask me about **Java**, **Python**, and **web development** topics.
 - 📫 How to reach me: Email: [nayeem2019@hotmail.com](mailto:nayeem2019@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/al-shahriar-nayeem-244196252).
 - 😄 Fun fact: I love learning about new technologies and how they can solve real-world problems.
+<iframe src="https://giphy.com/embed/13rQ7rrTrvZXlm" width="480" height="317" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/geek-the-incredibles-writing-schedule-13rQ7rrTrvZXlm">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/IHkILvQZ94BxMdBHp0" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/3d-boy-lofi-IHkILvQZ94BxMdBHp0">via GIPHY</a></p>
 
 ## Skills
 - **Languages**: Java, Python, HTML, CSS, JavaScript
