@@ -17,7 +17,7 @@
 
 ## Projects
 - **[Simon Game]**: [This is a game I created while doing my web development bootcamp. I gained experience in implementing JavaScript, HTML, and CSS in this project.](https://alnayeem01.github.io/simon-game/)
-- **[Travel Agency]**: [This is a project I made for my university course. I used HTML and CSS to create this fully responsive website.](https://alnayeem01.github.io/html-travel/)
+- **[Weather app]**: [This weather app is built using HTML, CSS, and JavaScript, offering users real-time weather information for any city. By utilizing the OpenWeatherMap public API, the app fetches and displays data such as temperature, humidity, and wind speed. Users can easily search for their desired location, and the app dynamically updates the weather details. The app also includes a responsive design, ensuring it works seamlessly on various screen sizes. With intuitive visuals and weather icons, the app provides a simple and user-friendly experience for anyone looking to stay updated on weather conditions.](https://alnayeem01.github.io/weather-app/)
 - **[Drum Kit]**: [This is another vanilla project I made while doing my bootcamp on web development.](https://alnayeem01.github.io/drum-kit/)
 
 ## Get in Touch
