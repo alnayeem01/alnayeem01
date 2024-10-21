@@ -18,7 +18,7 @@
 ## Projects
 - **[Simon Game]**: [This is a game I created while doing my web development bootcamp. I gained experience in implementing JavaScript, HTML, and CSS in this project.](https://alnayeem01.github.io/simon-game/)
 - **[Weather app]**: [This weather app is built using HTML, CSS, and JavaScript, offering users real-time weather information for any city. By utilizing the OpenWeatherMap public API, the app fetches and displays data such as temperature, humidity, and wind speed. Users can easily search for their desired location, and the app dynamically updates the weather details. The app also includes a responsive design, ensuring it works seamlessly on various screen sizes. With intuitive visuals and weather icons, the app provides a simple and user-friendly experience for anyone looking to stay updated on weather conditions.](https://alnayeem01.github.io/weather-app/)
-- **[Drum Kit]**: [This is another vanilla project I made while doing my bootcamp on web development.](https://alnayeem01.github.io/drum-kit/)
+- **[Crypto-web]**: [The Crypto Price Tracker is a web application that displays real-time prices for cryptocurrencies like Bitcoin, Ethereum, and Dogecoin. Built using Express.js for the backend and HTML, CSS, and JavaScript for the frontend, this project was inspired by a YouTube tutorial, but the backend implementation is original. It allows users to easily access and track cryptocurrency market data.](https://alnayeem01.github.io/crypto-web/)
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/al-shahriar-nayeem-244196252)
