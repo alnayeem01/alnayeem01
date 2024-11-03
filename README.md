@@ -23,5 +23,5 @@
 
 ## Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/al-shahriar-nayeem-244196252)
-- [Portfolio](https://github.com/alnayeem01/portfolio)
+- [Portfolio](https://alnayeem01.github.io/portfolio/)
 - [Email](mailto:nayeem2019@hotmail.com)
