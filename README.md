@@ -10,9 +10,9 @@
 - 😄 Fun fact: I love learning about new technologies and how they can solve real-world problems.
 
 ## Skills
-- **Languages**: Java, Python, HTML, CSS, JavaScript
-- **Frameworks/Libraries**: Bootstrap, Node.js, Express
-- **Databases**: SQL
+- **Languages**: Java, Python, HTML, CSS, JavaScript, Typescript
+- **Frameworks/Libraries**: Bootstrap, Node.js, Express, React, React Native, Tailwind
+- **Databases**: SQL, MongoDb
 - **Tools**: Git, Visual Studio Code
 
 ## Projects
