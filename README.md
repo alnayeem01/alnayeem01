@@ -15,7 +15,7 @@
 - **Databases**: SQL, MongoDb
 - **Tools**: Git, Visual Studio Code
 
-##Projects
+## Projects
 **📱 Learnify — Mobile Learning App**
 
 **Tech**: React Native CLI • Express • MongoDB
