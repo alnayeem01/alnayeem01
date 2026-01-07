@@ -15,23 +15,23 @@
 - **Databases**: SQL, MongoDb
 - **Tools**: Git, Visual Studio Code
 
-## Projects
-##📱 Learnify — Mobile Learning App
+##Projects
+📱 Learnify — Mobile Learning App
 
 Tech: React Native CLI • Express • MongoDB
 
-A cross-platform mobile learning app where users can browse content, post audio, and listen to learning materials. The backend is built with Express and MongoDB, supporting authentication and realtime data updates. The app follows clean UI patterns and a scalable architecture suitable for production growth.
+A cross-platform mobile learning app where users can browse content, post audio, and listen to learning materials. The backend is built with Express and MongoDB, supporting authentication and realtime data updates.
 
 🔗 Repositories
 Frontend: https://github.com/alnayeem01/learnify-mobile-app
 
 Backend: https://github.com/alnayeem01/learnify-server
 
-##⚡ Green Eagle Energy — Business Website
+⚡ Green Eagle Energy — Business Website
 
 Tech: Next.js • React • Tailwind CSS • Vercel
 
-A modern business website built with Next.js, featuring a multi-step conditional form for service inquiries. The form dynamically adjusts based on user selections, improving usability and lead quality. The site is optimized for performance, SEO-friendly, and fully deployed on Vercel.
+A modern business website featuring a multi-step conditional form for service inquiries. The form adapts based on user selections to improve usability and lead quality. Fully deployed on Vercel.
 
 🔗 Live Site
 https://green-eagle-energy.vercel.app/
@@ -39,7 +39,7 @@ https://green-eagle-energy.vercel.app/
 🔗 Repository
 https://github.com/alnayeem01/green-eagle-energy
 
-##🎮 Simon Game
+🎮 Simon Game
 
 Tech: JavaScript • HTML • CSS
 
