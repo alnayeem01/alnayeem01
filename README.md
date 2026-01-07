@@ -1,22 +1,21 @@
 # Hi there, I'm Al Shahriar Nayeem 👋
 
 ## About Me
-- 🔭 I’m currently working on enhancing my skills in **Java** and **Python** as I continue my studies at university.
-- 🌱 I’ve been learning **Java** and **Python** for 2 years and am currently enrolled in a **Web Developer Bootcamp** and a **Python Data Structures Bootcamp**.
-- 👯 I’m looking to collaborate on projects involving **full stack web development** and **data structures**.
-- 🤔 I’m interested in exploring **software development**, **web development**, and **machine learning**.
-- 💬 Ask me about **Java**, **Python**, and **web development** topics.
+- 🙎‍♂️ I’m currently working as a **Full Stack / React Native Developer**, contributing across frontend and backend.
+- ⚽ I’ve contributed to both the backend and frontend of **scoutme.cloud**, a football analysis platform.
+- 🎓 I’m in my final year of Computer Science, maintaining **First-Class** results from Birkbeck, University of London.
+- 💬 Ask me about React Native, JavaScript/TypeScript, backend APIs, and full-stack workflows.
 - 📫 How to reach me: Email: [nayeem2019@hotmail.com](mailto:nayeem2019@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/al-shahriar-nayeem-244196252).
-- 😄 Fun fact: I love learning about new technologies and how they can solve real-world problems.
 
 ## Skills
+- **Most-used**: TypeScript, React, Next.js React Native, Node.js, Express, Prisma, MongoDB
 - **Languages**: Java, Python, HTML, CSS, JavaScript, Typescript
 - **Frameworks/Libraries**: Bootstrap, Node.js, Express, React, React Native, Tailwind
 - **Databases**: SQL, MongoDb
 - **Tools**: Git, Visual Studio Code
 
 ## Projects
-**📱 Learnify — Mobile Learning App**
+**📱 Learnify — Mobile Audio App**
 
 **Tech**: React Native CLI • Express • MongoDB
 
