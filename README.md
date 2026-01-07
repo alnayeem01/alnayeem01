@@ -17,7 +17,13 @@
 
 ## Projects
 - **[Simon Game]**: [This is a game I created while doing my web development bootcamp. I gained experience in implementing JavaScript, HTML, and CSS in this project.](https://alnayeem01.github.io/simon-game/)
-- **[Weather app]**: [This weather app is built using HTML, CSS, and JavaScript, offering users real-time weather information for any city. By utilizing the OpenWeatherMap public API, the app fetches and displays data such as temperature, humidity, and wind speed. Users can easily search for their desired location, and the app dynamically updates the weather details. The app also includes a responsive design, ensuring it works seamlessly on various screen sizes. With intuitive visuals and weather icons, the app provides a simple and user-friendly experience for anyone looking to stay updated on weather conditions.](https://alnayeem01.github.io/weather-app/)
+📱 Learnify — Mobile Learning App
+
+Tech: React Native CLI • Express • MongoDB
+
+A cross-platform mobile learning app where users can browse content, post audio, and listen to learning materials. The backend is built with Express and MongoDB, supporting authentication and realtime data updates. The app follows clean UI patterns and a scalable architecture suitable for production growth.
+
+🔗 https://github.com/alnayeem01/learnify-mobile-app
 - **[Crypto-web]**: [The Crypto Price Tracker is a web application that displays real-time prices for cryptocurrencies like Bitcoin, Ethereum, and Dogecoin. Built using Express.js for the backend and HTML, CSS, and JavaScript for the frontend, this project was inspired by a YouTube tutorial, but the backend implementation is original. It allows users to easily access and track cryptocurrency market data.](https://alnayeem01.github.io/crypto-web/)
 - **[fattah-acc]**: [The Fattah Accountancy Ltd website is a responsive web application designed to provide essential information about the company and its services. Built using HTML and CSS, it features a clean and professional layout, ensuring an optimal viewing experience across various devices. Key sections include "About Us," highlighting the company's registration in England and Wales, and "Contact Us," providing easy access to their email and phone number. The website’s straightforward navigation enhances user experience, allowing visitors to quickly find the information they need. This project effectively showcases web design principles focused on usability and accessibility, establishing a strong online presence for Fattah Accountancy Ltd](https://alnayeem01.github.io/fattah-acc/)
 
