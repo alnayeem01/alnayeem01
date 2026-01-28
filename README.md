@@ -2,7 +2,6 @@
 
 ## About Me
 - 🙎‍♂️ I’m currently working as a **Full Stack / React Native Developer**, contributing across frontend and backend.
-- ⚽ I’ve contributed to both the backend and frontend of **scoutme.cloud**, a football analysis platform.
 - 🎓 I’m in my final year of Computer Science, maintaining **First-Class** results from Birkbeck, University of London.
 - 💬 Ask me about React Native, JavaScript/TypeScript, backend APIs, and full-stack workflows.
 - 📫 How to reach me: Email: [nayeem2019@hotmail.com](mailto:nayeem2019@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/al-shahriar-nayeem-244196252).
