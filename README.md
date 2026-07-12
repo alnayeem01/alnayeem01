@@ -25,7 +25,7 @@ Built secure onboarding, authentication, and KYC verification workflows for a mo
 ### 📚 IELT.UK
 **Next.js • PostgreSQL**
 
-Contributing to the redevelopment of an English learning and assessment platform, improving booking workflows and supporting future AI-powered features.
+Contributing to the development of an English learning and assessment platform, improving booking workflows and supporting AI-powered features.
 
 🔗 https://ielt.uk
 
