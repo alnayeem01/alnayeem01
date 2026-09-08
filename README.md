@@ -10,34 +10,34 @@ I enjoy building web and mobile applications, with a particular interest in back
 
 ### 💼 Commercial
 
-- 🎟️ **Checkdin** – Event management platform built with React, Node.js and PostgreSQL.
-- 📚 **IELT.UK** – Contributing to an English learning and assessment platform, improving booking workflows and supporting AI-powered features.
-- 📱 **Fintech Prototype** – Developing secure onboarding, authentication and KYC workflows using React Native, AWS Cognito and Veriff.
+* 🎟️ **Checkdin** – Event management platform built with React, Node.js and PostgreSQL.
+* 📚 **IELT.UK** – Contributing to an English learning and assessment platform, improving booking workflows and supporting AI-powered features.
+* 📱 **Fintech Prototype** – Developing secure onboarding, authentication and KYC workflows using React Native, AWS Cognito and Veriff.
 
 ### 🚀 Personal
 
-- 💬 **Customer Service Hub** – Building a multi-tenant customer support platform featuring authentication, tenant isolation, access control an admin dashboard, an embeddable chat widget, and future AI-assisted customer support.
+* 💬 **[Paroot](https://paroot.co)** – Building a customer communication platform for small businesses, combining website chat and email enquiries into a shared inbox with conversation management, team assignment, notifications and access controls. 
 
 ## 🛠 Tech Stack
 
-**Languages**  
+**Languages**
 TypeScript • JavaScript • Python • Java • SQL
 
-**Frontend**  
+**Frontend**
 React • Next.js • React Native • Tailwind CSS
 
-**Backend**  
-Node.js • Express.js • PostgreSQL • Prisma • MongoDB
+**Backend**
+Node.js • Express.js • PostgreSQL • Prisma • MongoDB • Django
 
-**Cloud & Tools**  
-AWS • Firebase • Git • GitHub • Vercel • Postman
+**Cloud & Tools**
+AWS • Firebase • Git • GitHub • Vercel • Postman • Google Cloud Services
 
 ## 🌱 Currently Learning
 
-- AI Product Engineering
-- AWS Architecture
-- System Design
-- Data Structures & Algorithms
+* AI Product Engineering
+* AWS Architecture
+* System Design
+* Micro-service architecture and development 
 
 ## 📫 Connect
 
@@ -45,4 +45,4 @@ AWS • Firebase • Git • GitHub • Vercel • Postman
 
 💼 **LinkedIn:** https://www.linkedin.com/in/al-shahriar-nayeem-244196252
 
-📧 **Email:** nayeem2019@hotmail.com
+📧 **Email:** [nayeem2019@hotmail.com](mailto:nayeem2019@hotmail.com)
