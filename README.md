@@ -1,7 +1,7 @@
 # <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Al+Shahriar+Nayeem;Full-Stack+Engineer;Building+SaaS+%26+AI-powered+Products" alt="Typing SVG" />
 
 
-I'm a final-year Computing student at **Birkbeck, University of London**, currently working part-time as a Full-Stack Developer.
+I'm a recent Computing graduate from Birkbeck, University of London, graduating with First Class Honours, and currently working part-time as a Full-Stack Developer.
 
 I enjoy building web and mobile applications, with a particular interest in backend engineering, SaaS products, cloud technologies, and AI-powered applications.
 
